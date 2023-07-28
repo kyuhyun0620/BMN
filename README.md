@@ -1,6 +1,6 @@
 # BMN
 ## version1.0_230623
-notice.sql 수정
+notice.sql 수정 / 기획안
 
 ## version1.1_230627
 faq.sql qna.sql 추가
@@ -45,4 +45,4 @@ goods DB 변경 / qna 수정
 ccs / 장바구니 수정
 
 ## version15.0_230721
-최종본
+최종본 / 최종 결과 보고서
